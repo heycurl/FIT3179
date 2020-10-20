@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": "400",
+  "height": 400,
+  "description": "A scatterplot showing body mass and flipper lengths of penguins.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/heycurl/FIT3179/master/data/top10poorestchildren.json"
+  },
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "Young Dependency Ratio (% of young workers)",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    },
+    "y": {
+      "field": "Children out of school (% of primary school age)",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    },
+    "color": {"field": "Country", "type": "nominal"},
+    "shape": {"field": "Country", "type": "nominal"},
+    "tooltip": [
+      {"field": "Country.", "type": "nominal", "title": "Country"},
+      {
+        "field": "Children out of school (% of primary school age)",
+        "type": "quantitative",
+        "title": "% out of school"
+      },
+      {
+        "field": "Young Dependency Ratio (% of young workers)",
+        "type": "nominal",
+        "title": "% young workers"
+      }
+    ]
+  },
+  "config": {}
+}
