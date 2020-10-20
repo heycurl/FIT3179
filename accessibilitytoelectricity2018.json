@@ -25,7 +25,7 @@
     "color": {
       "field": "Percentage",
       "type": "quantitative",
-      "scale": {"type": "log"}
+      "scale": {"type": "log","scheme" : "dark2"}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
