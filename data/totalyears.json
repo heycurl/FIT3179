@@ -1,0 +1,187 @@
+[
+  {
+    "Gender": "Male",
+    "Year": 2001,
+    "Expected Number": 9.277637119
+  },
+  {
+    "Gender": "Male",
+    "Year": 2002,
+    "Expected Number": 9.700353463
+  },
+  {
+    "Gender": "Male",
+    "Year": 2003,
+    "Expected Number": 9.833923074
+  },
+  {
+    "Gender": "Male",
+    "Year": 2004,
+    "Expected Number": 10.02420819
+  },
+  {
+    "Gender": "Male",
+    "Year": 2005,
+    "Expected Number": 10.02792407
+  },
+  {
+    "Gender": "Male",
+    "Year": 2006,
+    "Expected Number": 10.04263514
+  },
+  {
+    "Gender": "Male",
+    "Year": 2007,
+    "Expected Number": 9.878333049
+  },
+  {
+    "Gender": "Male",
+    "Year": 2008,
+    "Expected Number": 10.05253294
+  },
+  {
+    "Gender": "Male",
+    "Year": 2009,
+    "Expected Number": 10.34140955
+  },
+  {
+    "Gender": "Male",
+    "Year": 2010,
+    "Expected Number": 10.41900436
+  },
+  {
+    "Gender": "Male",
+    "Year": 2011,
+    "Expected Number": 10.63994675
+  },
+  {
+    "Gender": "Male",
+    "Year": 2012,
+    "Expected Number": 10.51946467
+  },
+  {
+    "Gender": "Male",
+    "Year": 2013,
+    "Expected Number": 10.38554408
+  },
+  {
+    "Gender": "Male",
+    "Year": 2014,
+    "Expected Number": 10.62594817
+  },
+  {
+    "Gender": "Male",
+    "Year": 2015,
+    "Expected Number": 10.88768346
+  },
+  {
+    "Gender": "Male",
+    "Year": 2016,
+    "Expected Number": 10.84913425
+  },
+  {
+    "Gender": "Male",
+    "Year": 2017,
+    "Expected Number": 10.87362658
+  },
+  {
+    "Gender": "Male",
+    "Year": 2018,
+    "Expected Number": 10.3477222
+  },
+  {
+    "Gender": "Female",
+    "Year": 2001,
+    "Expected Number": 9.162114857
+  },
+  {
+    "Gender": "Female",
+    "Year": 2002,
+    "Expected Number": 9.592182274
+  },
+  {
+    "Gender": "Female",
+    "Year": 2003,
+    "Expected Number": 9.698489593
+  },
+  {
+    "Gender": "Female",
+    "Year": 2004,
+    "Expected Number": 9.839261752
+  },
+  {
+    "Gender": "Female",
+    "Year": 2005,
+    "Expected Number": 9.96131511
+  },
+  {
+    "Gender": "Female",
+    "Year": 2006,
+    "Expected Number": 10.09029499
+  },
+  {
+    "Gender": "Female",
+    "Year": 2007,
+    "Expected Number": 9.950841379
+  },
+  {
+    "Gender": "Female",
+    "Year": 2008,
+    "Expected Number": 10.1384099
+  },
+  {
+    "Gender": "Female",
+    "Year": 2009,
+    "Expected Number": 10.43669299
+  },
+  {
+    "Gender": "Female",
+    "Year": 2010,
+    "Expected Number": 10.56142679
+  },
+  {
+    "Gender": "Female",
+    "Year": 2011,
+    "Expected Number": 10.69840803
+  },
+  {
+    "Gender": "Female",
+    "Year": 2012,
+    "Expected Number": 10.73005604
+  },
+  {
+    "Gender": "Female",
+    "Year": 2013,
+    "Expected Number": 10.68800547
+  },
+  {
+    "Gender": "Female",
+    "Year": 2014,
+    "Expected Number": 10.85621711
+  },
+  {
+    "Gender": "Female",
+    "Year": 2015,
+    "Expected Number": 11.21264638
+  },
+  {
+    "Gender": "Female",
+    "Year": 2016,
+    "Expected Number": 11.18213096
+  },
+  {
+    "Gender": "Female",
+    "Year": 2017,
+    "Expected Number": 11.20458677
+  },
+  {
+    "Gender": "Female",
+    "Year": 2018,
+    "Expected Number": 10.73511652
+  },
+  {
+    "Gender": "",
+    "Year": "",
+    "Expected Number": ""
+  }
+]
