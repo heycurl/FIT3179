@@ -1,0 +1,102 @@
+[
+  {
+    "Country": "Liberia",
+    "Category": "Young Dependency Ratio (% of young workers)",
+    "Values": 80.02079232
+  },
+  {
+    "Country": "Liberia",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 19.65531922
+  },
+  {
+    "Country": "Niger",
+    "Category": "Young Dependency Ratio",
+    "Values": 100
+  },
+  {
+    "Country": "Niger",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 57.50103798
+  },
+  {
+    "Country": "Central African Republic",
+    "Category": "Young Dependency Ratio",
+    "Values": 82.47900705
+  },
+  {
+    "Country": "Central African Republic",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 32.21229691
+  },
+  {
+    "Country": "Burundi",
+    "Category": "Young Dependency Ratio",
+    "Values": 92.74567444
+  },
+  {
+    "Country": "Burundi",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 29.95920944
+  },
+  {
+    "Country": "Madagascar",
+    "Category": "Young Dependency Ratio",
+    "Values": 84.72692537
+  },
+  {
+    "Country": "Madagascar",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 18.94707103
+  },
+  {
+    "Country": "Malawi",
+    "Category": "Young Dependency Ratio",
+    "Values": 91.42474416
+  },
+  {
+    "Country": "Malawi",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 7.720150226
+  },
+  {
+    "Country": "Mozambique",
+    "Category": "Young Dependency Ratio",
+    "Values": 87.90496813
+  },
+  {
+    "Country": "Mozambique",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 21.97488221
+  },
+  {
+    "Country": "Sierra Leone",
+    "Category": "Young Dependency Ratio",
+    "Values": 82.28132478
+  },
+  {
+    "Country": "Sierra Leone",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 15.7885742
+  },
+  {
+    "Country": "Comoros",
+    "Category": "Young Dependency Ratio",
+    "Values": 77.18591154
+  },
+  {
+    "Country": "Comoros",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 15.7885742
+  },
+  {
+    "Country": "Togo",
+    "Category": "Young Dependency Ratio",
+    "Values": 78.93514428
+  },
+  {
+    "Country": "Togo",
+    "Category": "Children out of school (% of primary school age)",
+    "Values": 15.98943006
+  }
+]
