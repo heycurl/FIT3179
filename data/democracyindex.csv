@@ -1,4 +1,4 @@
-Continent,Year,Democracy_Index,Income_per_capita,Invest_%,Tax_%_GDP,Gini_index
+Continent,Year,Democracy_Index,Income_per_capita,Invest,Tax_GDP,Gini_index
 Africa,2006,44.05833333,6299.208333,19.49458333,16.61541667,43.0125
 Africa,2007,49.99166667,6954.291667,23.60458333,19.69625,47.04166667
 Africa,2008,48.55833333,7291.916667,23.54333333,20.66875,47.42916667
