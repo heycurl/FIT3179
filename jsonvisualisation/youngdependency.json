@@ -1,11 +1,50 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": "400",
+  "width": "500",
   "height": 400,
+  "title" : "% Children out of School & Young Working Dependency in Top 10 Poorest countries",
   "description": "A scatterplot showing relation between Young Dependency Ratio & Children out of school.",
   "data": {
     "url": "https://raw.githubusercontent.com/heycurl/FIT3179/master/data/top10poorestchildren.json"
   },
+  "params" : [
+    {
+      "name" : "Country_selection",
+      "bind": {
+        "input" : "select",
+        "options":[
+          null,
+          "Burundi",
+          "Central African Republic",
+          "Comoros",
+          "Liberia",
+          "Madagascar",
+          "Malawi",
+          "Mozambique",
+          "Niger",
+          "Sierra Leone",
+          "Togo"
+        ],
+          "labels" :[
+            "Show All",
+            "Burundi",
+            "Central African Republic",
+            "Comoros",
+            "Liberia",
+            "Madagascar",
+            "Malawi",
+            "Mozambique",
+            "Niger",
+            "Sierra Leone",
+            "Togo"
+          ],
+          "name" : "Country Selection: "
+      }
+    }
+        ],
+  "transform" : [
+    {"filter" : "Country_selection == null || datum.Country == Country_selection"}
+  ],
   "mark": "point",
   "encoding": {
     "x": {
