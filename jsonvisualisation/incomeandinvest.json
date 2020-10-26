@@ -1,0 +1,136 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "Income per capita vs Invest % over Continents",
+  "data": {
+    "url": "https://raw.githubusercontent.com/heycurl/FIT3179/master/data/democracyindex2.csv"
+  },
+  "params": [
+    {
+      "name": "selected_year",
+      "value": 2006,
+      "bind": {
+        "input": "range",
+        "min": 2006,
+        "max": 2016,
+        "step": 1,
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [null, "Americas", "Europe", "Africa", "Asia", "Oceania"],
+        "labels": [
+          "Show All",
+          "Americas",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.income_per_person > 0"},
+    {"filter": "datum.invest > 0"},
+    {"filter": "datum.year == selected_year"},
+    {
+      "filter": "Continent_selection == null || datum.continent == Continent_selection"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "income_per_person",
+      "type": "quantitative",
+      "title": "Income per capita",
+      "axis": {"tickCount": 4},
+      "scale": {"type": "log", "domain": [605, 101000]}
+    },
+    "y": {
+      "field": "invest",
+      "type": "quantitative",
+      "axis": {"tickCount": 4},
+      "scale": {"domain": [5, 70]}
+    }
+  },
+  "layer": [
+    {
+      "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": ["Continent"],
+          "bind": "legend"
+        }
+      },
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "income_per_person",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [500, 1000, 3000, 7000, 10000, 130000],
+            "range": [10, 50, 150, 200, 300, 400]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "color": {
+          "field": "continent",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Americas", "Europe", "Africa", "Asia", "Oceania"],
+            "range": [
+              "#e41a1c",
+              "#984ea3",
+              "#ff7f00",
+              "#a6cee3",
+              "#377eb8",
+              "#a65628"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.7},
+          "value": 0.1
+        },
+        "tooltip": [
+          {"field": "country", "type": "nominal"},
+          {"field": "income_per_person", "type": "quantitative", "format": ","},
+          {"field": "invest", "type": "quantitative", "format": ","}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "country", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['country'] == 'China' || datum['country'] == 'Luxembourg'|| datum['country'] == 'Congo, Dem. Rep.' || datum['country'] == 'Singapore' || datum['country'] == 'Algeria' || datum['country'] == 'Malaysia' || datum['country'] == 'Bhutan' || datum['country'] == 'Latvia' || datum['country'] == 'Canada' || datum['country'] == 'United States' || datum['country'] == 'Nigeria' || datum['country'] == 'Australia'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "country", "type": "nominal"},
+          {"field": "income_per_person", "type": "quantitative", "format": ","},
+          {"field": "invest", "type": "quantitative", "format": ","}
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
