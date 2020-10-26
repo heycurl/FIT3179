@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "PLACES THAT PROVIDES EQUAL RIGHTS BETWEEN MALE & FEMALE",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/heycurl/FIT3179/master/data/genderequality.csv"
+  },
+  "mark": {"type": "line", "point": {"filled": false, "fill": "white"}},
+  "encoding": {
+    "x": {"timeUnit": "year", "field": "Year", "title": "Year"},
+    "y": {
+      "field": "Number of allowed places",
+      "type": "quantitative",
+      "scale": {"domain": [70, 200]}
+    },
+    "color": {"field": "Category", "type": "nominal"},
+    "tooltip": [{"field": "Number of allowed places", "type": "quantitative"}]
+  },
+  "config": {}
+}
