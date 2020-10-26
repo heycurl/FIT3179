@@ -1,0 +1,481 @@
+Country,Code,Year,Corruption Index
+Colombia,COL,1996,-0.51
+Mexico,MEX,1996,-0.51
+Ghana,GHA,1996,-0.34
+Myanmar,MMR,1996,-1.50
+Guatemala,GTM,1996,-0.86
+Saudi Arabia,SAU,1996,-0.16
+Brazil,BRA,1996,-0.02
+Kenya,KEN,1996,-1.16
+Bolivia,BOL,1996,-0.82
+Russian Federation,RUS,1996,-1.05
+Singapore,SGP,1996,2.11
+Denmark,DNK,1996,2.23
+New Zealand,NZL,1996,2.11
+Finland,FIN,1996,2.21
+Switzerland,CHE,1996,1.99
+Sweden,SWE,1996,2.17
+Norway,NOR,1996,2.14
+Netherlands,NLD,1996,2.08
+Luxembourg,LUX,1996,1.95
+Iceland,ISL,1996,1.73
+Colombia,COL,1997,-0.50
+Mexico,MEX,1997,-0.45
+Ghana,GHA,1997,-0.26
+Myanmar,MMR,1997,-1.34
+Guatemala,GTM,1997,-0.86
+Saudi Arabia,SAU,1997,-0.25
+Brazil,BRA,1997,0.08
+Kenya,KEN,1997,-1.15
+Bolivia,BOL,1997,-0.36
+Russian Federation,RUS,1997,-0.98
+Singapore,SGP,1997,2.11
+Denmark,DNK,1997,2.26
+New Zealand,NZL,1997,2.21
+Finland,FIN,1997,2.26
+Switzerland,CHE,1997,2.11
+Sweden,SWE,1997,2.23
+Norway,NOR,1997,2.22
+Netherlands,NLD,1997,2.15
+Luxembourg,LUX,1997,1.94
+Iceland,ISL,1997,1.97
+Colombia,COL,1998,-0.40
+Mexico,MEX,1998,-0.25
+Ghana,GHA,1998,-0.10
+Myanmar,MMR,1998,-1.39
+Guatemala,GTM,1998,-0.75
+Saudi Arabia,SAU,1998,-0.19
+Brazil,BRA,1998,0.04
+Kenya,KEN,1998,-1.06
+Bolivia,BOL,1998,-0.46
+Russian Federation,RUS,1998,-1.00
+Singapore,SGP,1998,2.21
+Denmark,DNK,1998,2.39
+New Zealand,NZL,1998,2.25
+Finland,FIN,1998,2.44
+Switzerland,CHE,1998,2.11
+Sweden,SWE,1998,2.30
+Norway,NOR,1998,2.19
+Netherlands,NLD,1998,2.21
+Luxembourg,LUX,1998,2.05
+Iceland,ISL,1998,2.27
+Colombia,COL,1999,-0.24
+Mexico,MEX,1999,-0.18
+Ghana,GHA,1999,-0.33
+Myanmar,MMR,1999,-1.32
+Guatemala,GTM,1999,-0.65
+Saudi Arabia,SAU,1999,0.20
+Brazil,BRA,1999,0.08
+Kenya,KEN,1999,-1.00
+Bolivia,BOL,1999,-0.90
+Russian Federation,RUS,1999,-0.93
+Singapore,SGP,1999,2.32
+Denmark,DNK,1999,2.37
+New Zealand,NZL,1999,2.32
+Finland,FIN,1999,2.43
+Switzerland,CHE,1999,2.11
+Sweden,SWE,1999,2.26
+Norway,NOR,1999,2.17
+Netherlands,NLD,1999,2.12
+Luxembourg,LUX,1999,2.06
+Iceland,ISL,1999,2.25
+Colombia,COL,2000,-0.18
+Mexico,MEX,2000,-0.17
+Ghana,GHA,2000,-0.25
+Myanmar,MMR,2000,-1.48
+Guatemala,GTM,2000,-0.77
+Saudi Arabia,SAU,2000,-0.15
+Brazil,BRA,2000,0.09
+Kenya,KEN,2000,-0.88
+Bolivia,BOL,2000,-0.82
+Russian Federation,RUS,2000,-0.76
+Singapore,SGP,2000,2.23
+Denmark,DNK,2000,2.42
+New Zealand,NZL,2000,2.35
+Finland,FIN,2000,2.44
+Switzerland,CHE,2000,2.07
+Sweden,SWE,2000,2.21
+Norway,NOR,2000,2.07
+Netherlands,NLD,2000,2.05
+Luxembourg,LUX,2000,1.69
+Iceland,ISL,2000,2.29
+Colombia,COL,2001,-0.13
+Mexico,MEX,2001,-0.30
+Ghana,GHA,2001,-0.25
+Myanmar,MMR,2001,-1.65
+Guatemala,GTM,2001,-0.61
+Saudi Arabia,SAU,2001,-0.29
+Brazil,BRA,2001,0.02
+Kenya,KEN,2001,-0.86
+Bolivia,BOL,2001,-0.78
+Russian Federation,RUS,2001,-0.80
+Singapore,SGP,2001,2.33
+Denmark,DNK,2001,2.43
+New Zealand,NZL,2001,2.38
+Finland,FIN,2001,2.44
+Switzerland,CHE,2001,2.01
+Sweden,SWE,2001,2.16
+Norway,NOR,2001,1.94
+Netherlands,NLD,2001,2.00
+Luxembourg,LUX,2001,1.84
+Iceland,ISL,2001,2.19
+Colombia,COL,2002,-0.13
+Mexico,MEX,2002,-0.27
+Ghana,GHA,2002,-0.37
+Myanmar,MMR,2002,-1.54
+Guatemala,GTM,2002,-0.67
+Saudi Arabia,SAU,2002,-0.10
+Brazil,BRA,2002,-0.14
+Kenya,KEN,2002,-1.00
+Bolivia,BOL,2002,-0.74
+Russian Federation,RUS,2002,-0.82
+Singapore,SGP,2002,2.17
+Denmark,DNK,2002,2.29
+New Zealand,NZL,2002,2.20
+Finland,FIN,2002,2.33
+Switzerland,CHE,2002,2.02
+Sweden,SWE,2002,2.02
+Norway,NOR,2002,2.01
+Netherlands,NLD,2002,1.97
+Luxembourg,LUX,2002,1.66
+Iceland,ISL,2002,2.31
+Colombia,COL,2003,-0.12
+Mexico,MEX,2003,-0.26
+Ghana,GHA,2003,-0.02
+Myanmar,MMR,2003,-1.66
+Guatemala,GTM,2003,-0.81
+Saudi Arabia,SAU,2003,-0.19
+Brazil,BRA,2003,-0.11
+Kenya,KEN,2003,-0.93
+Bolivia,BOL,2003,-0.43
+Russian Federation,RUS,2003,-0.91
+Singapore,SGP,2003,2.19
+Denmark,DNK,2003,2.47
+New Zealand,NZL,2003,2.33
+Finland,FIN,2003,2.46
+Switzerland,CHE,2003,2.09
+Sweden,SWE,2003,2.20
+Norway,NOR,2003,2.13
+Netherlands,NLD,2003,2.05
+Luxembourg,LUX,2003,1.88
+Iceland,ISL,2003,2.18
+Colombia,COL,2004,-0.22
+Mexico,MEX,2004,-0.27
+Ghana,GHA,2004,0.04
+Myanmar,MMR,2004,-1.63
+Guatemala,GTM,2004,-0.74
+Saudi Arabia,SAU,2004,-0.17
+Brazil,BRA,2004,-0.08
+Kenya,KEN,2004,-0.97
+Bolivia,BOL,2004,-0.40
+Russian Federation,RUS,2004,-1.01
+Singapore,SGP,2004,2.24
+Denmark,DNK,2004,2.45
+New Zealand,NZL,2004,2.33
+Finland,FIN,2004,2.40
+Switzerland,CHE,2004,2.15
+Sweden,SWE,2004,2.24
+Norway,NOR,2004,1.99
+Netherlands,NLD,2004,2.17
+Luxembourg,LUX,2004,1.97
+Iceland,ISL,2004,2.21
+Colombia,COL,2005,-0.24
+Mexico,MEX,2005,-0.24
+Ghana,GHA,2005,-0.07
+Myanmar,MMR,2005,-1.62
+Guatemala,GTM,2005,-0.65
+Saudi Arabia,SAU,2005,-0.01
+Brazil,BRA,2005,0.01
+Kenya,KEN,2005,-1.06
+Bolivia,BOL,2005,-0.52
+Russian Federation,RUS,2005,-1.11
+Singapore,SGP,2005,2.25
+Denmark,DNK,2005,2.39
+New Zealand,NZL,2005,2.31
+Finland,FIN,2005,2.34
+Switzerland,CHE,2005,2.12
+Sweden,SWE,2005,2.23
+Norway,NOR,2005,1.91
+Netherlands,NLD,2005,2.12
+Luxembourg,LUX,2005,1.97
+Iceland,ISL,2005,2.34
+Colombia,COL,2006,-0.31
+Mexico,MEX,2006,-0.30
+Ghana,GHA,2006,-0.01
+Myanmar,MMR,2006,-1.66
+Guatemala,GTM,2006,-0.53
+Saudi Arabia,SAU,2006,-0.02
+Brazil,BRA,2006,-0.07
+Kenya,KEN,2006,-1.06
+Bolivia,BOL,2006,-0.63
+Russian Federation,RUS,2006,-1.13
+Singapore,SGP,2006,2.22
+Denmark,DNK,2006,2.45
+New Zealand,NZL,2006,2.39
+Finland,FIN,2006,2.25
+Switzerland,CHE,2006,2.07
+Sweden,SWE,2006,2.25
+Norway,NOR,2006,1.99
+Netherlands,NLD,2006,2.13
+Luxembourg,LUX,2006,1.97
+Iceland,ISL,2006,2.04
+Colombia,COL,2007,-0.39
+Mexico,MEX,2007,-0.36
+Ghana,GHA,2007,0.01
+Myanmar,MMR,2007,-1.67
+Guatemala,GTM,2007,-0.53
+Saudi Arabia,SAU,2007,0.04
+Brazil,BRA,2007,0.05
+Kenya,KEN,2007,-0.91
+Bolivia,BOL,2007,-0.47
+Russian Federation,RUS,2007,-1.09
+Singapore,SGP,2007,2.18
+Denmark,DNK,2007,2.36
+New Zealand,NZL,2007,2.34
+Finland,FIN,2007,2.16
+Switzerland,CHE,2007,2.07
+Sweden,SWE,2007,2.27
+Norway,NOR,2007,2.09
+Netherlands,NLD,2007,2.14
+Luxembourg,LUX,2007,2.05
+Iceland,ISL,2007,1.94
+Colombia,COL,2008,-0.29
+Mexico,MEX,2008,-0.40
+Ghana,GHA,2008,-0.03
+Myanmar,MMR,2008,-1.59
+Guatemala,GTM,2008,-0.53
+Saudi Arabia,SAU,2008,-0.31
+Brazil,BRA,2008,0.17
+Kenya,KEN,2008,-0.95
+Bolivia,BOL,2008,-0.57
+Russian Federation,RUS,2008,-1.07
+Singapore,SGP,2008,2.11
+Denmark,DNK,2008,2.40
+New Zealand,NZL,2008,2.30
+Finland,FIN,2008,2.20
+Switzerland,CHE,2008,2.04
+Sweden,SWE,2008,2.20
+Norway,NOR,2008,2.15
+Netherlands,NLD,2008,2.12
+Luxembourg,LUX,2008,2.16
+Iceland,ISL,2008,1.94
+Colombia,COL,2009,-0.39
+Mexico,MEX,2009,-0.41
+Ghana,GHA,2009,-0.13
+Myanmar,MMR,2009,-1.06
+Guatemala,GTM,2009,-0.66
+Saudi Arabia,SAU,2009,-0.04
+Brazil,BRA,2009,-0.04
+Kenya,KEN,2009,-1.09
+Bolivia,BOL,2009,-0.73
+Russian Federation,RUS,2009,-1.04
+Singapore,SGP,2009,2.12
+Denmark,DNK,2009,2.38
+New Zealand,NZL,2009,2.32
+Finland,FIN,2009,2.24
+Switzerland,CHE,2009,2.15
+Sweden,SWE,2009,2.31
+Norway,NOR,2009,2.26
+Netherlands,NLD,2009,2.12
+Luxembourg,LUX,2009,2.12
+Iceland,ISL,2009,1.89
+Colombia,COL,2010,-0.41
+Mexico,MEX,2010,-0.51
+Ghana,GHA,2010,-0.10
+Myanmar,MMR,2010,-1.00
+Guatemala,GTM,2010,-0.62
+Saudi Arabia,SAU,2010,-0.02
+Brazil,BRA,2010,-0.08
+Kenya,KEN,2010,-1.03
+Bolivia,BOL,2010,-0.59
+Russian Federation,RUS,2010,-1.01
+Singapore,SGP,2010,2.08
+Denmark,DNK,2010,2.40
+New Zealand,NZL,2010,2.34
+Finland,FIN,2010,2.20
+Switzerland,CHE,2010,2.13
+Sweden,SWE,2010,2.29
+Norway,NOR,2010,2.29
+Netherlands,NLD,2010,2.05
+Luxembourg,LUX,2010,2.12
+Iceland,ISL,2010,1.91
+Colombia,COL,2011,-0.37
+Mexico,MEX,2011,-0.76
+Ghana,GHA,2011,-0.19
+Myanmar,MMR,2011,-0.88
+Guatemala,GTM,2011,-0.74
+Saudi Arabia,SAU,2011,0.09
+Brazil,BRA,2011,-0.34
+Kenya,KEN,2011,-0.93
+Bolivia,BOL,2011,-0.63
+Russian Federation,RUS,2011,-0.92
+Singapore,SGP,2011,2.07
+Denmark,DNK,2011,2.25
+New Zealand,NZL,2011,2.25
+Finland,FIN,2011,2.17
+Switzerland,CHE,2011,2.15
+Sweden,SWE,2011,2.15
+Norway,NOR,2011,2.23
+Netherlands,NLD,2011,1.99
+Luxembourg,LUX,2011,2.07
+Iceland,ISL,2011,1.83
+Colombia,COL,2012,-0.30
+Mexico,MEX,2012,-0.77
+Ghana,GHA,2012,-0.19
+Myanmar,MMR,2012,-0.84
+Guatemala,GTM,2012,-0.73
+Saudi Arabia,SAU,2012,0.05
+Brazil,BRA,2012,-0.40
+Kenya,KEN,2012,-1.01
+Bolivia,BOL,2012,-0.70
+Russian Federation,RUS,2012,-0.95
+Singapore,SGP,2012,2.09
+Denmark,DNK,2012,2.21
+New Zealand,NZL,2012,2.28
+Finland,FIN,2012,2.28
+Switzerland,CHE,2012,2.14
+Sweden,SWE,2012,2.24
+Norway,NOR,2012,2.24
+Netherlands,NLD,2012,1.88
+Luxembourg,LUX,2012,2.10
+Iceland,ISL,2012,1.94
+Colombia,COL,2013,-0.32
+Mexico,MEX,2013,-0.72
+Ghana,GHA,2013,-0.15
+Myanmar,MMR,2013,-0.62
+Guatemala,GTM,2013,-0.74
+Saudi Arabia,SAU,2013,0.23
+Brazil,BRA,2013,-0.38
+Kenya,KEN,2013,-0.89
+Bolivia,BOL,2013,-0.72
+Russian Federation,RUS,2013,-0.82
+Singapore,SGP,2013,2.09
+Denmark,DNK,2013,2.23
+New Zealand,NZL,2013,2.28
+Finland,FIN,2013,2.24
+Switzerland,CHE,2013,1.99
+Sweden,SWE,2013,2.19
+Norway,NOR,2013,2.20
+Netherlands,NLD,2013,1.91
+Luxembourg,LUX,2013,2.10
+Iceland,ISL,2013,1.95
+Colombia,COL,2014,-0.37
+Mexico,MEX,2014,-0.93
+Ghana,GHA,2014,-0.23
+Myanmar,MMR,2014,-0.57
+Guatemala,GTM,2014,-0.74
+Saudi Arabia,SAU,2014,0.36
+Brazil,BRA,2014,-0.53
+Kenya,KEN,2014,-0.95
+Bolivia,BOL,2014,-0.66
+Russian Federation,RUS,2014,-0.89
+Singapore,SGP,2014,2.13
+Denmark,DNK,2014,2.19
+New Zealand,NZL,2014,2.24
+Finland,FIN,2014,2.22
+Switzerland,CHE,2014,1.99
+Sweden,SWE,2014,2.14
+Norway,NOR,2014,2.24
+Netherlands,NLD,2014,1.87
+Luxembourg,LUX,2014,1.99
+Iceland,ISL,2014,1.84
+Colombia,COL,2015,-0.29
+Mexico,MEX,2015,-0.85
+Ghana,GHA,2015,-0.12
+Myanmar,MMR,2015,-0.59
+Guatemala,GTM,2015,-0.82
+Saudi Arabia,SAU,2015,0.36
+Brazil,BRA,2015,-0.40
+Kenya,KEN,2015,-0.85
+Bolivia,BOL,2015,-0.62
+Russian Federation,RUS,2015,-0.85
+Singapore,SGP,2015,2.17
+Denmark,DNK,2015,2.15
+New Zealand,NZL,2015,2.18
+Finland,FIN,2015,2.21
+Switzerland,CHE,2015,2.01
+Sweden,SWE,2015,2.14
+Norway,NOR,2015,2.09
+Netherlands,NLD,2015,2.01
+Luxembourg,LUX,2015,2.09
+Iceland,ISL,2015,1.84
+Colombia,COL,2016,-0.23
+Mexico,MEX,2016,-0.82
+Ghana,GHA,2016,-0.08
+Myanmar,MMR,2016,-0.63
+Guatemala,GTM,2016,-0.90
+Saudi Arabia,SAU,2016,0.27
+Brazil,BRA,2016,-0.33
+Kenya,KEN,2016,-0.78
+Bolivia,BOL,2016,-0.74
+Russian Federation,RUS,2016,-0.83
+Singapore,SGP,2016,2.16
+Denmark,DNK,2016,2.11
+New Zealand,NZL,2016,2.17
+Finland,FIN,2016,2.15
+Switzerland,CHE,2016,1.98
+Sweden,SWE,2016,2.12
+Norway,NOR,2016,2.07
+Netherlands,NLD,2016,2.00
+Luxembourg,LUX,2016,2.11
+Iceland,ISL,2016,1.71
+Colombia,COL,2017,-0.66
+Mexico,MEX,2017,-0.53
+Ghana,GHA,2017,-0.37
+Myanmar,MMR,2017,2.19
+Guatemala,GTM,2017,2.22
+Saudi Arabia,SAU,2017,-0.23
+Brazil,BRA,2017,-0.74
+Kenya,KEN,2017,1.84
+Bolivia,BOL,2017,-0.95
+Russian Federation,RUS,2017,1.99
+Singapore,SGP,2017,-0.93
+Denmark,DNK,2017,-0.57
+New Zealand,NZL,2017,1.87
+Finland,FIN,2017,2.24
+Switzerland,CHE,2017,2.24
+Sweden,SWE,2017,-0.89
+Norway,NOR,2017,0.36
+Netherlands,NLD,2017,2.13
+Luxembourg,LUX,2017,2.14
+Iceland,ISL,2017,1.99
+Colombia,COL,2018,-0.62
+Mexico,MEX,2018,-0.40
+Ghana,GHA,2018,-0.29
+Myanmar,MMR,2018,2.15
+Guatemala,GTM,2018,2.21
+Saudi Arabia,SAU,2018,-0.12
+Brazil,BRA,2018,-0.82
+Kenya,KEN,2018,1.84
+Bolivia,BOL,2018,-0.85
+Russian Federation,RUS,2018,2.09
+Singapore,SGP,2018,-0.85
+Denmark,DNK,2018,-0.59
+New Zealand,NZL,2018,2.01
+Finland,FIN,2018,2.18
+Switzerland,CHE,2018,2.09
+Sweden,SWE,2018,-0.85
+Norway,NOR,2018,0.36
+Netherlands,NLD,2018,2.17
+Luxembourg,LUX,2018,2.14
+Iceland,ISL,2018,2.01
+Colombia,COL,2019,-0.74
+Mexico,MEX,2019,-0.33
+Ghana,GHA,2019,-0.23
+Myanmar,MMR,2019,2.11
+Guatemala,GTM,2019,2.15
+Saudi Arabia,SAU,2019,-0.08
+Brazil,BRA,2019,-0.90
+Kenya,KEN,2019,1.71
+Bolivia,BOL,2019,-0.78
+Russian Federation,RUS,2019,2.11
+Singapore,SGP,2019,-0.82
+Denmark,DNK,2019,-0.63
+New Zealand,NZL,2019,2.00
+Finland,FIN,2019,2.17
+Switzerland,CHE,2019,2.07
+Sweden,SWE,2019,-0.83
+Norway,NOR,2019,0.27
+Netherlands,NLD,2019,2.16
+Luxembourg,LUX,2019,2.12
+Iceland,ISL,2019,1.98
