@@ -102,10 +102,10 @@
         </div>
       </div>
       <div class="pure-u-1-3">
-        <div id="vis4"  class="vis-container"></div>
+        <div id="vis3"  class="vis-container"></div>
       </div>
       <div class="pure-u-1-3">
-        <div id="vis3"  class="vis-container"></div>
+        <div id="vis4"  class="vis-container"></div>
       </div>
     
     </div>
@@ -143,32 +143,32 @@
 <script type="text/javascript">
   var choloropleth2011 = "jsonvisualisation/chloroplethelectricity2011.json";
   var choloropleth2018= "jsonvisualisation/chloroplethelectricity2018.json";
-  var corruptionheat = "jsonvisualisation/corruptionheatmapjson";
+  var corruptionheat = "jsonvisualisation/corruptionheatmap.json";
   var genderrights = "jsonvisualisation/genderrights.json";
   var incomeandinvest = "jsonvisualisation/incomeandinvest.json";
   var youngdependecy = "jsonvisualisation/youngdependency.json";
 
-  vegaEmbed('#vis1', corruptionheat, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis1', chloropleth2011, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
-   vegaEmbed('#vis2', genderrights, {"actions": false}).then(function(result) {
+   vegaEmbed('#vis2', choloropleth2018, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  vegaEmbed('#vis3', choloropleth2011, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis3', genderrights, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  vegaEmbed('#vis4', choloropleth2018, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis4', youngdependecy, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
           
-  vegaEmbed('#vis5', incomeandinvest, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis5', corruptionheat, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);    
   
-  vegaEmbed('#vis6', youngdependecy, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis6', incomeandinvest, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);  
          
