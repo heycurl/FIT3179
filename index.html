@@ -24,6 +24,9 @@
 <div id="choropleth_2018"></div>
 <p><br></p>
 <div id="income_bubble"></div>
+<p><br></p>
+<div id="youngdependency_bubble"></div>
+
 
 <h2><u>Corruption</u></h2>
 <div id="corruption_heat"></div>
@@ -60,7 +63,7 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
-  vegaEmbed('#gender_equality', genderrights).then(function(result) {
+  vegaEmbed('#gender_line', genderrights).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
     
