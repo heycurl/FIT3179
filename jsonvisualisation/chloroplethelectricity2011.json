@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Percentage of Accessibility to Electricity in 2011",
-  "width": 500,
+  "width": 600,
   "height": 500,
   "projection": {"type": "equirectangular"},
   "data": {
