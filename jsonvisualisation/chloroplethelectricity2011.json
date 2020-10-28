@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Percentage of Accessibility to Electricity in 2011",
-  "width": 400,
-  "height": 400,
+  "width": 500,
+  "height": 500,
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://raw.githubusercontent.com/heycurl/FIT3179/master/json/world2.topojson",
@@ -25,7 +25,7 @@
     "color": {
       "field": "Percentage",
       "type": "quantitative",
-      "scale": {"type": "log", "scheme": "blues"}
+      "scale": {"type": "log", "scheme": "dark2"}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
