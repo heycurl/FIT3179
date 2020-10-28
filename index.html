@@ -42,7 +42,7 @@
   var corruptionheat = "jsonvisualisation/corruptionheatmap.json";
   var genderrights = "jsonvisualisation/genderrights.json";
   var incomeandinvest = "jsonvisualisation/incomeandinvest.json";
-  var youngdependecy = "jsonvisualisation/youngdependency.json";
+  var youngdependency = "jsonvisualisation/youngdependency.json";
   
    vegaEmbed('#choropleth_2011', choloropleth2011).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -64,7 +64,7 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
     
-  vegaEmbed('#gender_line', genderrights).then(function(result) {
+  vegaEmbed('#youngdependency_bubble', youngdependency).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
