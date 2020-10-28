@@ -100,7 +100,7 @@
         },
         "tooltip": [
           {"field": "country", "type": "nominal"},
-          {"field": "income_per_person", "type": "quantitative", "format": ","},
+          {"field": "income_per_person", "type": "quantitative", "format": ",","title" : "GDP per capita"},
           {"field": "invest", "type": "quantitative", "format": ","}
         ]
       }
@@ -126,7 +126,7 @@
         },
         "tooltip": [
           {"field": "country", "type": "nominal"},
-          {"field": "income_per_person", "type": "quantitative", "format": ","},
+          {"field": "income_per_person", "type": "quantitative", "format": ",","title" : "GDP per capita"},
           {"field": "invest", "type": "quantitative", "format": ","}
         ]
       }
