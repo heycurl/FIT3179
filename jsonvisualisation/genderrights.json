@@ -16,7 +16,9 @@
       "scale": {"domain": [70, 200]}
     },
     "color": {"field": "Category", "type": "nominal"},
-    "tooltip": [{"field": "Number of allowed places", "type": "quantitative"}]
+    "tooltip": [
+      {"field": "Category", "type": "nominal"},
+      {"field": "Number of allowed places", "type": "quantitative"}]
   },
   "config": {}
 }
