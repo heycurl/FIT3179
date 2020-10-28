@@ -13,7 +13,7 @@
     "y": {
       "field": "Number of allowed places",
       "type": "quantitative",
-      "scale": {"domain": [70, 200]}
+      "scale": {"domain": [0, 200]}
     },
     "color": {"field": "Category", "type": "nominal"},
     "tooltip": [
